@@ -1,0 +1,99 @@
+{
+    "pageTextData": [
+		{
+            "title": " ",
+            "subTitle": "Start",		
+            "description": "I chose my favourite car Camaro (the model of bumblebee transformer) to model. Firstly, I found the blueprint of it. Then cut it into pieces and set them into the 3ds Max 2017. Click on the image to get a larger version",
+            "imageUrl": "assets/images/image_1.jpg"
+		},
+		{
+            "title": " ",
+            "subTitle": " Parts",		
+            "description": "This image illustrates the parts I built, such as the car body, windows, wheels and the lights, since I haven’t use MAX before, I followed a tutorial from the YouTube so that I won’t miss anything. Click on the image to get a larger version.",
+            "imageUrl": "assets/images/image_2.jpg"
+		},
+		{
+            "title": " ",
+            "subTitle": "Material",		
+            "description": "After modelling the tire, the whole car looks complete, then I add standard materials to each part, I also added lights and background to make it looks clearly.",
+            "imageUrl": "assets/images/image_3.jpg"
+		},
+        {
+            "title": " ",
+            "subTitle": "Render",		
+            "description": "I rendered with Scanline Render. As for me, I’m quite satisfied with the render result. Click on the image to get a larger version.",
+            "imageUrl": "assets/images/image_4.jpg"
+        },
+		{
+            "title": " ",
+            "subTitle": "Animation",		
+            "description": "This movie shows an animation of the Camaro in 3ds Max 2017.",
+            "videoUrl": "assets/videos/delorean.mp4"
+		},
+		{
+            "title": " ",
+            "subTitle": "X3D Model",		
+            "description": "Here we can now see the online X3D model (X3D in the HTML DOM, i.e. X3DOM) of the Camaro. Use your mouse to navigate around the model in 3D",
+            "x3dUrl": "assets/x3d/delorean.x3d"
+		},
+		{
+            "title": " ",
+            "subTitle": "Start",		
+            "description": "As for photorealistic part, to be honest, I also follow the tutorial. Firstly, I set the light, the ground plane and the background, then I test material and bit map with a teapot. Seeing the location and view suitable, I merged the car.",
+            "imageUrl": "assets/images/image_5.jpg"
+		},
+        {
+            "title": " ",
+            "subTitle": "Material",		
+            "description": "This image illustrates the steps I editing the car with the Arch and Design Materials, such wheels, windows and the head parts.",
+            "imageUrl": "assets/images/image_6.jpg"
+        },
+        {
+            "title": " ",
+            "subTitle": "Color",		
+            "description": "I add effects of reflection and test the colour I like.",
+            "imageUrl": "assets/images/image_7.jpg"
+		},
+		{
+            "title": " ",
+            "subTitle": "Final Photorealistic Image",		
+            "description": " Then, I made the ground plane visible so that the shadow could be observable.  I also adjust a little bit to make the car reach the ground. Finally, I rendered with the NVIDIA mental ray.",
+            "imageUrl": "assets/images/image_8.jpg"
+		},
+		{
+            "title": " ",
+            "subTitle": "Modelling",		
+            "description": "At first, I follow the tutorials and everything looks good, I used different common types of control, such as vertex, edge and polygon to build the surfaces. I also learnt many shortcut keys to achieve change view and insert parts."
+		},
+		{
+            "title": " ",
+            "subTitle": " Cameras and Lights",		
+            "description": "I set the camera at a comfortable and clear view to see the whole car. In order to make the car seems clearly and shinning, I added standard light of Direct from the top front of the car. I also added Omni near the back of the car, so that it looks clearly."
+		},
+		{
+            "title": " ",
+            "subTitle": "Animation",		
+            "description": "Thanks to having the module of 3D Animation and help of the tutorial, I finished the animation fluently. Since the frame too few, I set 3 cameras and play the animation three time in different views. To make it looks realistic, I edited the wheel rotating speed and added rotation of the car body."
+		},
+		{
+            "title": " ",
+            "subTitle": "Exporting to VRML97 and Rendering in X3D",		
+            "description": "However, things became tough, I exported the model but cannot read by IE, so I stopped and looked for help. Luckily, I narrowed down the problem according to the suggestion from the tutor. Then I fix them from Editable Mesh to Poly, I thought the reason is that I didn’t check the status carefully after collapsing. Fortunately, I didn’t need to rebuild a new one. Then I transcode successfully and rendered into .x3d file. To my surprise, even though I replaced the files I still see the original objects on the website. With the help of classmate, I reloaded and be able to see my works."
+		},
+		{
+            "title": " ",
+            "subTitle": "Photorealistic Rendering",		
+            "description": "Following the tutorial, I achieve material editing. I have run into several troubles, for instance when I added the material towards wheels the result incorrect, so I copied the correct one for 3 times. To be honest, because of lacking the experience, I feel the image is not so realistic. Partly because the colour and material, another reason I thought might be the sight view, which need more practice. After all, I have to say that I have learnt lots of function and tips of 3ds MAX. It is amazing to finish a realistic model."
+		},
+		{
+            "section_1": "3DMR Part 1 — Modelling, Animation and Scan Line Rendering with X3DOM",
+            "section_2": "3DMR Part 2 — Photorealistic Rendering with Mental Ray",		
+            "section_3": "3DMR Part 3 — 3D Modelling and Rendering Description"
+		},
+        {
+            "name": "Yifan Wang",
+            "number": "Number: 186144",		
+            "statement": "I declare that this work is solely my own work, and that I have not robbed it up from some other source unless explicitly stated in this assignment submission in Part 3."
+		}
+	]
+}
